@@ -37,7 +37,7 @@ Celebrating achievements, no matter how small, reinforces a positive relationshi
 In conclusion, sustaining a balanced fitness lifestyle involves a harmonious blend of consistency, adaptation, and mindfulness. By understanding the foundational principles of fitness, unlocking the science behind workouts, prioritizing nutrition, and maintaining balance, you can embark on a lifelong journey towards optimal well-being.
 
 
-## third addition
+## second addition
 
 ## Integrating Fitness into Your Daily Routine: A Guide to a Healthier Lifestyle
 
