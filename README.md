@@ -5,9 +5,9 @@
 <head>
   <style>
     body {
-      background-color: #3498db; /* Blue background color */
-      color: ##000000; /* Text color, white in this case */
-      padding: 18px; /* Add some padding for better readability */
+      background-color: #3498db; 
+      color: #000000; 
+      padding: 18px; 
     }
   </style>
 </head>
