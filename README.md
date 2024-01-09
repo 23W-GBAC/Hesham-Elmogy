@@ -1,5 +1,5 @@
 #                                                                             Fitness and Exercise
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -7,7 +7,7 @@
     body {
       background-color: #3498db; /* Blue background color */
       color: ##000000; /* Text color, white in this case */
-      padding: 25px; /* Add some padding for better readability */
+      padding: 18px; /* Add some padding for better readability */
     }
   </style>
 </head>
