@@ -1,4 +1,26 @@
 #                                                                             Fitness and Exercise
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    body {
+      background-color: #3498db; /* Blue background color */
+      color: #fff; /* Text color, white in this case */
+      padding: 20px; /* Add some padding for better readability */
+    }
+  </style>
+</head>
+
+<body>
+
+  # Your README content goes here
+
+</body>
+
+</html>
+
+
 ##  Foundations of Fitness
 Embarking on a fitness journey is a transformative commitment that extends beyond physical appearance. Regular exercise not only improves cardiovascular health but also enhances mental well-being. To initiate this journey effectively, it's crucial to set achievable goals. Clear objectives act as a roadmap, providing direction and motivation.
 
