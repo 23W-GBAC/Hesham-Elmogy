@@ -31,6 +31,8 @@
 <body>
 
 #  Foundations of Fitness
+![](https://github.com/23W-GBAC/Hesham-Elmogy/blob/7f4c77d30d56103aa972cea3f5c550a476578512/black-white-photo-muscular-build-man-using-sports-chalk-while-before-lifting-barbell-weight-training-gym.jpg)
+
 Embarking on a fitness journey is a transformative commitment that extends beyond physical appearance. Regular exercise not only improves cardiovascular health but also enhances mental well-being. To initiate this journey effectively, it's crucial to set achievable goals. Clear objectives act as a roadmap, providing direction and motivation.
 
 Diversifying your exercise routine is key. Incorporate cardiovascular activities like running, cycling, or swimming for endurance. Integrate strength training to build muscle and flexibility exercises like yoga for overall mobility. The combination ensures a holistic approach, addressing different aspects of physical fitness.
