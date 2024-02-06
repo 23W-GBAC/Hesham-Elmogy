@@ -143,7 +143,7 @@ As the demand for a healthier lifestyle continues to grow, the opportunities to 
 Success in this industry requires a combination of knowledge, professionalism, and strategic business acumen. By staying abreast of industry trends, continuously expanding your skills, and adapting to the evolving landscape, you can not only achieve financial success but also contribute to the well-being of individuals and communities around the world.
 ## fourth addition 
 In this article I liked to conclude with motivational story about man who changed his life with the sport.
-![John Parker]([URL](https://github.com/23W-GBAC/Hesham-Elmogy/blob/main/54959.jpg?raw=true))
+![John Parker]([[URL](https://github.com/23W-GBAC/Hesham-Elmogy/blob/main/54959.jpg?raw=true)](https://github.com/23W-GBAC/Hesham-Elmogy/blob/4cfe5b33e1bbd03cab952bb1b330b58ba523ae10/54959.jpg))
 
 In the vast tapestry of human stories, some narratives stand out as shining examples of resilience, determination, and the transformative power of sports. The incredible journey of John Parker is one such tale that vividly illustrates how a man's life can undergo a profound and positive metamorphosis through the conduit of athletic pursuits.
 A Rocky Beginning:
