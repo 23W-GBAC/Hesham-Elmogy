@@ -75,6 +75,7 @@ In conclusion, sustaining a balanced fitness lifestyle involves a harmonious ble
 ## second addition
 
 ## Integrating Fitness into Your Daily Routine: A Guide to a Healthier Lifestyle
+![](https://github.com/23W-GBAC/Hesham-Elmogy/blob/90612949dee123391f127143bfabcf5d094c67a2/businesswoman-writing-diary-with-pencil-workplace-with-laptop-healthy-breakfast.jpg)
 
 In today's fast-paced world, finding time for fitness can be challenging, but incorporating it into your daily routine is essential for maintaining a healthy lifestyle. By making fitness a non-negotiable part of your day, you can enjoy numerous physical and mental health benefits. This article explores practical ways to seamlessly integrate fitness into your daily schedule.
 
