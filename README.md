@@ -50,7 +50,7 @@ Recovery is as vital as the workout itself. Muscles need time to repair and adap
 In the pursuit of fitness, consistency and progression are paramount. Gradually increase the intensity of your workouts to challenge your body and promote continuous improvement. Whether a beginner or a seasoned enthusiast, a well-informed approach ensures sustainable and effective exercise habits.
 
 ## Nutrition's Crucial Role in Fitness
-![](URL)
+![](https://github.com/23W-GBAC/Hesham-Elmogy/blob/6ac3d5b85db8762f66ad2998ccfcfa2b08deff92/buddha-bowl-dish-with-vegetables-legumes-top-view.jpg)
 
 Nutrition is the cornerstone of a successful fitness journey. Pre-workout nutrition sets the stage for optimal performance by providing the necessary energy. Consider a balance of carbohydrates and protein to fuel your workout effectively.
 
